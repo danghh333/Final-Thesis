@@ -1,0 +1,743 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,1,56.8,152,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,2,54.4,148,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,3,63.7,155,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,4,59.3,153,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,5,59.3,153,Unhealthy,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,6,54,147,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,7,53.7,146,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,8,54.3,147,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,9,60.9,154,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,10,60.4,154,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,11,61.2,154,Unhealthy,63,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,12,60.9,154,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,13,58.6,153,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,14,55.4,150,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,15,49,134,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,16,52.8,144,Unhealthy for Sensitive Groups,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,17,56.7,152,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,18,70.7,159,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,19,74.8,161,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,20,79.9,164,Unhealthy,85,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,21,79.9,164,Unhealthy,80,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,22,90.4,169,Unhealthy,101,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/1/2020,2020,12,1,23,94.2,171,Unhealthy,98,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,0,91.6,170,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,1,89.3,168,Unhealthy,87,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,2,105.1,177,Unhealthy,121,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,3,115.5,182,Unhealthy,126,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,4,110.8,180,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,5,113.8,181,Unhealthy,122,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,6,92.9,170,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,7,73.3,160,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,8,70.1,159,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,9,74.5,161,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,10,64.7,156,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,11,64.3,156,Unhealthy,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,12,64.1,155,Unhealthy,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,13,63,155,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,14,58.5,153,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,15,57.2,152,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,16,58.1,152,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,17,58.9,153,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,18,61.5,154,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,19,66.8,157,Unhealthy,78,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,20,74.6,161,Unhealthy,86,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,21,85.7,167,Unhealthy,97,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,22,97.8,173,Unhealthy,108,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/2/2020,2020,12,2,23,102.4,175,Unhealthy,107,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,0,105.7,177,Unhealthy,109,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,1,104.8,176,Unhealthy,104,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,2,114.4,181,Unhealthy,124,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,3,93.7,171,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,4,82.8,165,Unhealthy,72,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,5,78.2,163,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,6,66.4,157,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,7,64.7,156,Unhealthy,63,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,8,55.8,151,Unhealthy,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,9,55.4,150,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,10,51.7,141,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,11,48.3,133,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,12,46.6,128,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,13,46.8,129,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,14,43.2,120,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,15,42.2,117,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,16,42.6,118,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,17,43.3,120,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,18,47,129,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,19,45.9,127,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,20,45.9,127,Unhealthy for Sensitive Groups,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,21,45.1,125,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,22,43.1,120,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/3/2020,2020,12,3,23,38.4,108,Unhealthy for Sensitive Groups,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,0,30.7,90,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,1,27.3,83,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,2,27.6,84,Moderate,28,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,3,25.8,80,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,4,31.4,92,Moderate,37,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,5,31.7,92,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,6,28.9,86,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,7,25.4,79,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,8,24.2,76,Moderate,23,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,9,27.8,84,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,10,28.2,85,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,11,29.3,87,Moderate,31,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,12,25.1,78,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,13,22.8,74,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,14,20.2,68,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,15,23.1,74,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,16,23.9,76,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,17,36.5,103,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,18,45.2,125,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,19,52.1,142,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,20,53,144,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,21,54.5,148,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,22,46.2,127,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/4/2020,2020,12,4,23,39.1,110,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,0,33,95,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,1,30,89,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,2,32.5,94,Moderate,35,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,3,40.7,114,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,4,97.8,173,Unhealthy,155,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,5,112.9,181,Unhealthy,128,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,6,71.4,159,Unhealthy,30,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,7,49.2,135,Unhealthy for Sensitive Groups,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,8,40.6,114,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,9,36.8,104,Unhealthy for Sensitive Groups,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,10,34.4,98,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,11,34.2,97,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,12,34.1,97,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,13,34,97,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,14,33,95,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,15,29.5,88,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,16,29.2,87,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,17,32.6,94,Moderate,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,18,39.4,111,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,19,54.6,148,Unhealthy for Sensitive Groups,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,20,65.3,156,Unhealthy,76,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,21,78.6,163,Unhealthy,92,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,22,71.3,159,Unhealthy,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/5/2020,2020,12,5,23,65.1,156,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,0,63.5,155,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,1,62.7,155,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,2,61.9,154,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,3,70.4,159,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,4,82.7,165,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,5,90.8,169,Unhealthy,99,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,6,89.7,169,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,7,95.2,171,Unhealthy,102,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,8,99.7,174,Unhealthy,105,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,9,85.8,167,Unhealthy,68,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,10,81.5,164,Unhealthy,76,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,11,70.8,159,Unhealthy,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,12,57,152,Unhealthy,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,13,52,142,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,14,52,142,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,15,48,132,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,16,48.9,134,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,17,49.9,136,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,18,55.4,150,Unhealthy for Sensitive Groups,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,19,65.7,156,Unhealthy,76,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,20,77.8,163,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,21,85.4,166,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,22,79.2,163,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/6/2020,2020,12,6,23,83.1,165,Unhealthy,87,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,0,86,167,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,1,85,166,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,2,87,167,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,3,89.6,169,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,4,146.5,198,Unhealthy,203,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,5,187.2,237,Very Unhealthy,228,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,6,132.1,191,Unhealthy,77,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,7,110,179,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,8,88.5,168,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,9,81.2,164,Unhealthy,74,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,10,71.6,159,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,11,67.8,157,Unhealthy,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,12,62.9,155,Unhealthy,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,13,59.9,153,Unhealthy,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,14,51.9,141,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,15,48.4,133,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,16,52.2,142,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,17,73.5,160,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,18,83.2,165,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,19,86.1,167,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,20,91,169,Unhealthy,96,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,21,89,168,Unhealthy,87,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,22,84.5,166,Unhealthy,80,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/7/2020,2020,12,7,23,84.2,166,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,0,89.6,169,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,1,91.3,169,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,2,91.6,170,Unhealthy,92,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,3,93.2,170,Unhealthy,96,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,4,98.9,173,Unhealthy,114,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,5,86.8,167,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,6,70.4,159,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,7,63.7,155,Unhealthy,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,8,57.3,152,Unhealthy,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,9,52.6,143,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,10,47.3,130,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,11,47.1,130,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,12,46.5,128,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,13,42.7,119,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,14,47.8,131,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,15,53.4,145,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,16,62.9,155,Unhealthy,74,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,17,67.2,157,Unhealthy,72,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,18,71,159,Unhealthy,75,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,19,76.2,162,Unhealthy,81,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,20,86.1,167,Unhealthy,96,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,21,90.5,169,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,22,96.7,172,Unhealthy,103,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/8/2020,2020,12,8,23,107.9,178,Unhealthy,119,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,0,121.9,185,Unhealthy,136,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,1,139.9,195,Unhealthy,158,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,2,138.5,194,Unhealthy,137,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,3,133.7,191,Unhealthy,129,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,4,134.3,192,Unhealthy,135,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,5,158.7,209,Very Unhealthy,183,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,6,212.3,262,Very Unhealthy,266,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,7,172.6,223,Very Unhealthy,133,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,8,172.3,223,Very Unhealthy,172,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,9,157.6,208,Very Unhealthy,143,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,10,124.3,187,Unhealthy,91,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,11,94.6,171,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,12,84.8,166,Unhealthy,75,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,13,69.3,158,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,14,61.6,154,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,15,63.8,155,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,16,62.4,155,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,17,63.1,155,Unhealthy,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,18,71,159,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,19,96.5,172,Unhealthy,122,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,20,90.7,169,Unhealthy,85,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,21,84.3,166,Unhealthy,78,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,22,81.6,164,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/9/2020,2020,12,9,23,80.3,164,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,0,68.6,158,Unhealthy,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,1,64.3,156,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,2,61.6,154,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,3,84.8,166,Unhealthy,108,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,4,175.4,226,Very Unhealthy,266,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,5,154.2,205,Very Unhealthy,133,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,6,145.6,198,Unhealthy,137,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,7,137.3,193,Unhealthy,129,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,8,139.6,194,Unhealthy,142,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,9,110.8,180,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,10,97.9,173,Unhealthy,85,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,11,90.4,169,Unhealthy,83,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,12,79.7,163,Unhealthy,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,13,73.3,160,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,14,69.1,158,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,15,71,159,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,16,82,165,Unhealthy,93,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,17,94,171,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,18,110.5,179,Unhealthy,127,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,19,125.2,187,Unhealthy,140,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,20,156.1,207,Very Unhealthy,187,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,21,171,221,Very Unhealthy,186,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,22,146,198,Unhealthy,121,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/10/2020,2020,12,10,23,130.5,190,Unhealthy,115,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,0,118.7,184,Unhealthy,107,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,1,111.8,180,Unhealthy,105,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,2,107.9,178,Unhealthy,104,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,3,107.9,178,Unhealthy,108,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,4,110.7,180,Unhealthy,113,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,5,121.9,185,Unhealthy,136,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,6,152.1,203,Very Unhealthy,189,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,7,184,234,Very Unhealthy,212,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,8,175,225,Very Unhealthy,166,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,9,168,218,Very Unhealthy,161,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,10,148.5,199,Unhealthy,129,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,11,116.2,182,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,12,103.1,176,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,13,94,171,Unhealthy,85,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,14,86,167,Unhealthy,78,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,15,76,162,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,16,71.4,159,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,17,76.2,162,Unhealthy,81,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,18,73.1,160,Unhealthy,70,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,19,64.5,156,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,20,59.7,153,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,21,57.3,152,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,22,54.5,148,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/11/2020,2020,12,11,23,51.9,141,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,0,46.6,128,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,1,44.5,123,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,2,47.6,131,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,3,53.1,144,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,4,60.7,154,Unhealthy,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,5,70.5,159,Unhealthy,81,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,6,76.2,162,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,7,82.7,165,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,8,93.3,171,Unhealthy,104,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,9,110.7,180,Unhealthy,128,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,10,102.3,175,Unhealthy,94,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,11,95.1,171,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,12,78,163,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,13,63.5,155,Unhealthy,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,14,50.7,138,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,15,45.8,126,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,16,44.9,124,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,17,47.9,132,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,18,54.9,149,Unhealthy for Sensitive Groups,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,19,63.9,155,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,20,71.9,159,Unhealthy,80,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,21,75.4,161,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,22,70.7,159,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/12/2020,2020,12,12,23,62.8,155,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,0,56.4,151,Unhealthy,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,1,51.2,140,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,2,54.6,148,Unhealthy for Sensitive Groups,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,3,54,147,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,4,55.3,150,Unhealthy for Sensitive Groups,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,5,57.7,152,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,6,63.4,155,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,7,66.6,157,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,8,70.4,159,Unhealthy,76,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,9,70.3,159,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,10,65.8,156,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,11,64.3,156,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,12,62.6,155,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,13,57.3,152,Unhealthy,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,14,43.9,122,Unhealthy for Sensitive Groups,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,15,30.9,91,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,16,25.9,80,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,17,27.4,83,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,18,22.7,73,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,19,36.3,103,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,20,59.1,153,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,21,70.5,159,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,22,69.2,158,Unhealthy,68,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/13/2020,2020,12,13,23,63.1,155,Unhealthy,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,0,54.5,148,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,1,55.7,151,Unhealthy,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,2,54.8,149,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,3,51.9,141,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,4,51.4,140,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,5,49.7,136,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,6,50.1,137,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,7,54,147,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,8,50.9,139,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,9,48.1,132,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,10,44.5,123,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,11,42.8,119,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,12,45.7,126,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,13,44.7,124,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,14,43.7,121,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,15,41.1,115,Unhealthy for Sensitive Groups,37,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,16,35.8,102,Unhealthy for Sensitive Groups,31,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,17,31.2,91,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,18,25.1,78,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,19,23,74,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,20,23,74,Moderate,23,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,21,25,78,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,22,23,74,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/14/2020,2020,12,14,23,23,74,Moderate,17,UG/M3,1 Hr,Invalid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,0,23,74,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,1,23,74,Moderate,17,UG/M3,1 Hr,Invalid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,2,23,74,Moderate,17,UG/M3,1 Hr,Invalid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,3,-999,-999,N/A,17,UG/M3,1 Hr,Invalid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,4,-999,-999,N/A,16,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,5,16.8,61,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,6,19.4,66,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,7,19.4,66,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,8,13.6,54,Moderate,11,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,9,15,57,Moderate,16,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,10,15,57,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,11,15,57,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,12,15,57,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,13,15,57,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,14,20.4,68,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,15,19.6,67,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,16,20.8,69,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,17,20.4,68,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,18,20.2,68,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,19,22.6,73,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,20,23.1,74,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,21,25.1,78,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,22,24.7,77,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/15/2020,2020,12,15,23,23.1,74,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,0,28.9,86,Moderate,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,1,38.1,107,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,2,37,105,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,3,40.5,113,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,4,36.7,104,Unhealthy for Sensitive Groups,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,5,36.7,104,Unhealthy for Sensitive Groups,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,6,24.9,78,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,7,23.2,74,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,8,23.1,74,Moderate,23,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,9,19.4,66,Moderate,16,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,10,16.6,60,Moderate,14,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,11,18.3,64,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,12,18.3,64,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,13,15.4,58,Moderate,14,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,14,17.4,62,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,15,19.8,67,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,16,18.8,65,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,17,20.1,68,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,18,22.3,72,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,19,25.3,79,Moderate,28,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,20,27.7,84,Moderate,30,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,21,24.8,78,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,22,24.9,78,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/16/2020,2020,12,16,23,27.9,84,Moderate,31,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,0,45.9,127,Unhealthy for Sensitive Groups,64,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,1,38.4,108,Unhealthy for Sensitive Groups,31,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,2,28.2,85,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,3,28.2,85,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,4,24,76,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,5,21.7,71,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,6,19.2,66,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,7,20.1,68,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,8,24.1,76,Moderate,28,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,9,29.1,87,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,10,30.5,90,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,11,27.7,84,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,12,27.3,83,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,13,24.6,77,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,14,22.8,74,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,15,19.9,67,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,16,18.9,65,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,17,18.9,65,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,18,20.4,68,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,19,26.7,82,Moderate,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,20,29.3,87,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,21,30.5,90,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,22,29.7,88,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/17/2020,2020,12,17,23,25,78,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,0,22.1,72,Moderate,19,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,1,20.1,68,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,2,20.1,68,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,3,18.1,64,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,4,18,63,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,5,16.9,61,Moderate,16,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,6,16.9,61,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,7,13.9,55,Moderate,11,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,8,13.9,55,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,9,15.3,58,Moderate,16,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,10,16.7,61,Moderate,18,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,11,18.9,65,Moderate,21,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,12,21,70,Moderate,23,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,13,23,74,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,14,23.5,75,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,15,27.7,84,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,16,32.9,95,Moderate,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,17,38.4,108,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,18,42.2,117,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,19,46.1,127,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,20,50.5,138,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,21,53.2,145,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,22,50.6,138,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/18/2020,2020,12,18,23,48.8,134,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,0,49.4,135,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,1,55.7,151,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,2,42.3,118,Unhealthy for Sensitive Groups,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,3,35.6,101,Unhealthy for Sensitive Groups,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,4,37.3,105,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,5,32.1,93,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,6,30.5,90,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,7,29.7,88,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,8,34.3,98,Moderate,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,9,36.1,102,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,10,34.5,98,Moderate,33,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,11,32.7,94,Moderate,31,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,12,30.8,90,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,13,31.8,92,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,14,29.8,88,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,15,31.2,91,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,16,32.8,95,Moderate,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,17,36.4,103,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,18,39.1,110,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,19,50.2,137,Unhealthy for Sensitive Groups,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,20,53.1,144,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,21,50.5,138,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,22,49.7,136,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/19/2020,2020,12,19,23,46.8,129,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,0,42.9,119,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,1,42.4,118,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,2,36.2,103,Unhealthy for Sensitive Groups,30,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,3,32.6,94,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,4,30.3,89,Moderate,28,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,5,32.1,93,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,6,33,95,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,7,33.5,96,Moderate,34,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,8,34.5,98,Moderate,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,9,38.1,107,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,10,39.1,110,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,11,38.6,109,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,12,39.1,110,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,13,38,107,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,14,35.9,102,Unhealthy for Sensitive Groups,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,15,38,107,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,16,39,110,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,17,39,110,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,18,45.3,125,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,19,46.8,129,Unhealthy for Sensitive Groups,49,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,20,50.9,139,Unhealthy for Sensitive Groups,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,21,55.4,150,Unhealthy for Sensitive Groups,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,22,61.9,154,Unhealthy,68,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/20/2020,2020,12,20,23,52.4,143,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,0,53.7,146,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,1,90.8,169,Unhealthy,128,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,2,108.4,178,Unhealthy,126,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,3,75.7,161,Unhealthy,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,4,63.3,155,Unhealthy,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,5,58.6,153,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,6,52.3,142,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,7,54.6,148,Unhealthy for Sensitive Groups,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,8,51.3,140,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,9,56.6,152,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,10,48.3,133,Unhealthy for Sensitive Groups,40,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,11,47.6,131,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,12,44.8,124,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,13,43.4,120,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,14,43.7,121,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,15,43.8,121,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,16,53,144,Unhealthy for Sensitive Groups,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,17,54.6,148,Unhealthy for Sensitive Groups,57,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,18,56,151,Unhealthy,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,19,62.1,154,Unhealthy,70,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,20,66.7,157,Unhealthy,72,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,21,69.6,158,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,22,70.3,159,Unhealthy,72,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/21/2020,2020,12,21,23,74.1,161,Unhealthy,78,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,0,80.8,164,Unhealthy,87,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,1,88.9,168,Unhealthy,97,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,2,94.9,171,Unhealthy,101,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,3,99.5,174,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,4,95.1,171,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,5,90.5,169,Unhealthy,85,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,6,96,172,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,7,99.1,174,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,8,99.2,174,Unhealthy,99,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,9,97.9,173,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,10,85.2,166,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,11,71.6,159,Unhealthy,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,12,65.4,156,Unhealthy,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,13,56.9,152,Unhealthy,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,14,58.4,152,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,15,59.2,153,Unhealthy,60,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,16,60.1,153,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,17,61,154,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,18,65,156,Unhealthy,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,19,70.9,159,Unhealthy,77,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,20,83.4,165,Unhealthy,97,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,21,88.5,168,Unhealthy,94,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,22,88.2,168,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/22/2020,2020,12,22,23,90,169,Unhealthy,92,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,0,94.5,171,Unhealthy,99,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,1,99.5,174,Unhealthy,107,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,2,99.3,174,Unhealthy,99,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,3,108.5,178,Unhealthy,118,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,4,114.7,182,Unhealthy,121,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,5,115.7,182,Unhealthy,119,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,6,108.6,178,Unhealthy,99,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,7,109,179,Unhealthy,111,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,8,97,172,Unhealthy,76,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,9,84.7,166,Unhealthy,70,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,10,68.1,158,Unhealthy,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,11,63.5,155,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,12,71.2,159,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,13,70.6,159,Unhealthy,70,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,14,70.8,159,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,15,80.9,164,Unhealthy,91,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,16,84.4,166,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,17,79.7,163,Unhealthy,75,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,18,72.8,160,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,19,69.2,158,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,20,68.3,158,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,21,70.9,159,Unhealthy,75,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,22,77.4,162,Unhealthy,89,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/23/2020,2020,12,23,23,74.1,161,Unhealthy,68,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,0,71.5,159,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,1,73.2,160,Unhealthy,77,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,2,87.5,168,Unhealthy,107,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,3,85.1,166,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,4,83.8,166,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,5,69.1,158,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,6,52.5,143,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,7,53.2,145,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,8,49.6,136,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,9,48.8,134,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,10,44.8,124,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,11,43.9,122,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,12,45.9,127,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,13,45.9,127,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,14,47.9,132,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,15,46.9,129,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,16,48.8,134,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,17,50.5,138,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,18,56.7,152,Unhealthy,66,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,19,68.4,158,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,20,83.5,165,Unhealthy,98,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,21,98.7,173,Unhealthy,114,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,22,102.3,175,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/24/2020,2020,12,24,23,110.2,179,Unhealthy,118,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,0,115.1,182,Unhealthy,120,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,1,113,181,Unhealthy,111,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,2,119.5,184,Unhealthy,126,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,3,153.7,204,Very Unhealthy,188,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,4,155.4,206,Very Unhealthy,157,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,5,153.2,204,Very Unhealthy,151,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,6,156.6,207,Very Unhealthy,160,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,7,137.9,194,Unhealthy,118,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,8,117.2,183,Unhealthy,96,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,9,102.3,175,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,10,85.6,167,Unhealthy,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,11,76.3,162,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,12,72.1,160,Unhealthy,68,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,13,75,161,Unhealthy,78,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,14,78,163,Unhealthy,81,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,15,82,165,Unhealthy,86,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,16,85.9,167,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,17,87.9,168,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,18,94,171,Unhealthy,103,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,19,105.6,177,Unhealthy,120,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,20,100.4,174,Unhealthy,94,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,21,91.4,170,Unhealthy,80,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,22,83.2,165,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/25/2020,2020,12,25,23,77.2,162,Unhealthy,69,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,0,69.1,158,Unhealthy,62,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,1,62.3,155,Unhealthy,56,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,2,60.6,154,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,3,65.8,156,Unhealthy,71,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,4,74.9,161,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,5,64.4,156,Unhealthy,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,6,61.7,154,Unhealthy,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,7,69.9,158,Unhealthy,80,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,8,92.9,170,Unhealthy,115,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,9,100.9,174,Unhealthy,109,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,10,97.9,173,Unhealthy,95,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,11,101.9,175,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,12,111,180,Unhealthy,120,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,13,120,184,Unhealthy,129,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,14,119.5,184,Unhealthy,119,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,15,115.7,182,Unhealthy,112,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,16,98.8,173,Unhealthy,82,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,17,105.9,177,Unhealthy,113,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,18,123.6,186,Unhealthy,145,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,19,122.2,185,Unhealthy,121,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,20,121.2,185,Unhealthy,120,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,21,122.4,186,Unhealthy,124,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,22,128.7,189,Unhealthy,137,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/26/2020,2020,12,26,23,122.3,185,Unhealthy,114,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,0,106.5,177,Unhealthy,86,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,1,93.5,171,Unhealthy,79,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,2,85.4,166,Unhealthy,77,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,3,78.7,163,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,4,76.8,162,Unhealthy,75,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,5,70.8,159,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,6,60.4,154,Unhealthy,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,7,62.7,155,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,8,76.3,162,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,9,88.6,168,Unhealthy,101,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,10,96.8,172,Unhealthy,105,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,11,103.9,176,Unhealthy,111,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,12,116.4,182,Unhealthy,129,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,13,119.7,184,Unhealthy,123,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,14,118.8,184,Unhealthy,118,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,15,113.9,181,Unhealthy,109,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,16,114.4,181,Unhealthy,115,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,17,110.2,179,Unhealthy,106,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,18,109.6,179,Unhealthy,109,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,19,115,182,Unhealthy,124,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,20,115.4,182,Unhealthy,118,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,21,115,182,Unhealthy,113,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,22,107.4,178,Unhealthy,90,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/27/2020,2020,12,27,23,83.9,166,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,0,75.4,161,Unhealthy,65,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,1,62.6,155,Unhealthy,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,2,51.8,141,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,3,49.9,136,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,4,48.4,133,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,5,47.2,130,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,6,47.6,131,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,7,45.7,126,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,8,46.8,129,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,9,42.4,118,Unhealthy for Sensitive Groups,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,10,41.4,116,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,11,41.4,116,Unhealthy for Sensitive Groups,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,14,-999,-999,N/A,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,15,38.9,109,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,16,38.8,109,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,17,39.8,112,Unhealthy for Sensitive Groups,42,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,18,41.5,116,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,19,51.6,141,Unhealthy for Sensitive Groups,63,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,20,53.1,144,Unhealthy for Sensitive Groups,55,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,21,52.2,142,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,22,49.5,135,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/28/2020,2020,12,28,23,43,119,Unhealthy for Sensitive Groups,35,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,0,39.9,112,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,1,33,95,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,2,29,87,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,3,28.5,85,Moderate,28,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,4,24.2,76,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,5,24.2,76,Moderate,-999,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,6,21.4,71,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,7,22.8,74,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,8,23.4,75,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,9,24.7,77,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,10,25.2,79,Moderate,26,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,11,26,80,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,12,25.9,80,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,13,26.9,82,Moderate,29,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,14,26.9,82,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,15,26,80,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,16,28.2,85,Moderate,32,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,17,36.4,103,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,18,44.2,122,Unhealthy for Sensitive Groups,52,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,19,47.1,130,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,20,46,127,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,21,49.5,135,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,22,46.7,129,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/29/2020,2020,12,29,23,50.3,137,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,0,61.6,154,Unhealthy,73,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,1,74.8,161,Unhealthy,88,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,2,57.9,152,Unhealthy,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,3,42.4,118,Unhealthy for Sensitive Groups,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,4,33.7,96,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,5,29.3,87,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,6,28.1,85,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,7,26,80,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,8,26.5,81,Moderate,27,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,9,21.7,71,Moderate,17,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,10,20.8,69,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,11,21.9,72,Moderate,23,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,12,20.9,70,Moderate,20,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,13,22.4,73,Moderate,24,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,14,22.1,72,Moderate,22,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,15,23.2,74,Moderate,25,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,16,26.2,81,Moderate,30,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,17,32.4,94,Moderate,38,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,18,39.2,110,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,19,48.6,133,Unhealthy for Sensitive Groups,58,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,20,51.3,140,Unhealthy for Sensitive Groups,54,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,21,51.1,139,Unhealthy for Sensitive Groups,51,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,22,49.5,135,Unhealthy for Sensitive Groups,48,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/30/2020,2020,12,30,23,47.7,131,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,0,48.9,134,Unhealthy for Sensitive Groups,50,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,1,47.9,132,Unhealthy for Sensitive Groups,47,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,2,44.4,123,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,3,41.9,117,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,4,44.3,123,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,5,42.6,118,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,6,43,119,Unhealthy for Sensitive Groups,44,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,7,44,122,Unhealthy for Sensitive Groups,46,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,8,42.7,119,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,9,42.8,119,Unhealthy for Sensitive Groups,43,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,10,41.1,115,Unhealthy for Sensitive Groups,37,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,11,41,115,Unhealthy for Sensitive Groups,41,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,12,40.6,114,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,13,39.5,111,Unhealthy for Sensitive Groups,36,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,14,39.3,110,Unhealthy for Sensitive Groups,39,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,15,40.6,114,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,16,41.5,116,Unhealthy for Sensitive Groups,45,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,17,45.6,126,Unhealthy for Sensitive Groups,53,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,18,51.5,140,Unhealthy for Sensitive Groups,59,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,19,55.6,151,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,20,85.6,167,Unhealthy,114,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,21,84.8,166,Unhealthy,84,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,22,72.9,160,Unhealthy,61,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,12/31/2020,2020,12,31,23,69.9,158,Unhealthy,67,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,1/1/2021,2021,1,1,0,61.4,154,Unhealthy,53,UG/M3,1 Hr,Valid
