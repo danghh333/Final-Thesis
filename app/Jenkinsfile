@@ -14,7 +14,8 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from GitHub
-                git url: 'https://github.com/your-username/your-repo.git', branch: 'main'
+                git url: 'https://github.com/danghh333/Final-Thesis.git', branch: 'main'
+                credentialsId '9157607f-09b3-4c9d-8c49-dec35f659823'
             }
         }
 
