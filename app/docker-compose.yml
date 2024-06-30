@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+    build: .
+    volumes:
+      - ./static:/app/static  # Mount the static folder for output HTML
+    command: python app.py
+    depends_on:
+      - web
+
+  web:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+    volumes:
+      - ./static:/usr/share/nginx/html 
+    restart: unless-stopped # Serve HTML from Nginx

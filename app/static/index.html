@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_11816733f66896d25cecff19bed54042 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.css"/>
+    
+            <style>
+                #scroll_zoom_toggler_df3e0be2816543b34423cce0f499c268 {
+                    position:absolute;
+                    width:35px;
+                    bottom:10px;
+                    height:35px;
+                    left:10px;
+                    background-color:#fff;
+                    text-align:center;
+                    line-height:35px;
+                    vertical-align: middle;
+                    }
+            </style>
+        
+</head>
+<body>
+    
+    
+    <div id="info-box" style="position: fixed; top: 10px; left: 10px; width: 250px; height: 45px; 
+                background-color: white; border: 2px solid grey; z-index: 9999; padding: 10px;">
+        <strong>Station: US Embassy in Hanoi</strong><br>
+    </div>
+    
+    
+<div style="position: fixed; top: 10px; right: 10px; width: 200px; height: auto; 
+             background-color: white; border: 2px solid grey; z-index: 9999; padding: 10px;">
+    <div style="background-color: green; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Good</strong></div>
+    <div style="background-color: yellow; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Moderate</strong></div>
+    <div style="background-color: orange; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Unhealthy for Sensitive</strong></div>
+    <div style="background-color: red; color: white; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Unhealthy</strong></div>
+    <div style="background-color: purple; color: white; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Very Unhealthy</strong></div>
+    <div style="background-color: brown; color: white; width: 100%; padding: 5px; box-sizing: border-box;"><strong>Hazardous</strong></div>
+</div>
+    
+            <div class="folium-map" id="map_11816733f66896d25cecff19bed54042" ></div>
+        
+    
+            <img id="scroll_zoom_toggler_df3e0be2816543b34423cce0f499c268"
+                 alt="scroll"
+                 src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/png/512/arrow-move.png"
+                 style="z-index: 999999"
+                 onclick="map_11816733f66896d25cecff19bed54042.toggleScroll()">
+            </img>
+        
+</body>
+<script>
+    
+    
+            var map_11816733f66896d25cecff19bed54042 = L.map(
+                "map_11816733f66896d25cecff19bed54042",
+                {
+                    center: [21.02357910187751, 105.85387723079896],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: false,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a4a57f237ad08197002199638bdf4d4e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_a4a57f237ad08197002199638bdf4d4e.addTo(map_11816733f66896d25cecff19bed54042);
+        
+    
+            var marker_a356b1bf9b56e31cbe2e7d2eb993a0fb = L.marker(
+                [21.02357910187751, 105.85387723079896],
+                {}
+            ).addTo(map_11816733f66896d25cecff19bed54042);
+        
+    
+            var icon_03f999cada1a228be236b176fa159a12 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a356b1bf9b56e31cbe2e7d2eb993a0fb.setIcon(icon_03f999cada1a228be236b176fa159a12);
+        
+    
+        var popup_e74a25b45ceafb24ee2a5abb449549ea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2af43afbe3a547c67828fcf1954e841f = $(`<div id="html_2af43afbe3a547c67828fcf1954e841f" style="width: 100.0%; height: 100.0%;">US Embassy in Hanoi (19/21 Hai Ba Trung St., Hoan Kiem Dist., Hanoi)</div>`)[0];
+                popup_e74a25b45ceafb24ee2a5abb449549ea.setContent(html_2af43afbe3a547c67828fcf1954e841f);
+            
+        
+
+        marker_a356b1bf9b56e31cbe2e7d2eb993a0fb.bindPopup(popup_e74a25b45ceafb24ee2a5abb449549ea)
+        ;
+
+        
+    
+    
+            L.Control.TimeDimensionCustom = L.Control.TimeDimension.extend({
+                _getDisplayDateFormat: function(date){
+                    var newdate = new moment(date);
+                    console.log(newdate)
+                    return newdate.format("YYYY/MM/DD HH:mm:ss");
+                }
+            });
+            map_11816733f66896d25cecff19bed54042.timeDimension = L.timeDimension(
+                {
+                    period: "PT3H",
+                }
+            );
+            var timeDimensionControl = new L.Control.TimeDimensionCustom(
+                {"autoPlay": true, "loopButton": true, "maxSpeed": 50, "minSpeed": 0.1, "playerOptions": {"loop": true, "startOver": true, "transitionTime": 1000}, "position": "bottomleft", "speedSlider": true, "timeSliderDragUpdate": false}
+            );
+            map_11816733f66896d25cecff19bed54042.addControl(this.timeDimensionControl);
+
+            var geoJsonLayer = L.geoJson({"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 01:00:00", "style": {"color": "red", "fillColor": "red", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 01:00:00 - PM2.5: 65.61, Air Quality: Unhealthy"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 04:00:00", "style": {"color": "yellow", "fillColor": "yellow", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 04:00:00 - PM2.5: 21.93, Air Quality: Moderate"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 07:00:00", "style": {"color": "yellow", "fillColor": "yellow", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 07:00:00 - PM2.5: 28.47, Air Quality: Moderate"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 10:00:00", "style": {"color": "orange", "fillColor": "orange", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 10:00:00 - PM2.5: 41.99, Air Quality: Unhealthy for sensitive"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 13:00:00", "style": {"color": "red", "fillColor": "red", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 13:00:00 - PM2.5: 64.85, Air Quality: Unhealthy"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 16:00:00", "style": {"color": "red", "fillColor": "red", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 16:00:00 - PM2.5: 102.78, Air Quality: Unhealthy"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 19:00:00", "style": {"color": "red", "fillColor": "red", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 19:00:00 - PM2.5: 112.11, Air Quality: Unhealthy"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [105.85387723079896, 21.02357910187751]}, "properties": {"time": "2024/02/19 22:00:00", "style": {"color": "red", "fillColor": "red", "fillOpacity": 0.5, "weight": 0}, "icon": "circle", "iconstyle": {"radius": 56}, "popup": "2024/02/19 22:00:00 - PM2.5: 109.53, Air Quality: Unhealthy"}}]}, {
+                    pointToLayer: function (feature, latLng) {
+                        if (feature.properties.icon == 'marker') {
+                            if(feature.properties.iconstyle){
+                                return new L.Marker(latLng, {
+                                    icon: L.icon(feature.properties.iconstyle)});
+                            }
+                            //else
+                            return new L.Marker(latLng);
+                        }
+                        if (feature.properties.icon == 'circle') {
+                            if (feature.properties.iconstyle) {
+                                return new L.circleMarker(latLng, feature.properties.iconstyle)
+                                };
+                            //else
+                            return new L.circleMarker(latLng);
+                        }
+                        //else
+
+                        return new L.Marker(latLng);
+                    },
+                    style: function (feature) {
+                        return feature.properties.style;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        if (feature.properties.popup) {
+                        layer.bindPopup(feature.properties.popup);
+                        }
+                        if (feature.properties.tooltip) {
+                        layer.bindTooltip(feature.properties.tooltip);
+                        }
+                    }
+                })
+
+            var timestamped_geo_json_5b61800dbc22bc949ad52c6e1b7bb2dd = L.timeDimension.layer.geoJson(
+                geoJsonLayer,
+                {
+                    updateTimeDimension: true,
+                    addlastPoint: true,
+                    duration: "PT1H",
+                }
+            ).addTo(map_11816733f66896d25cecff19bed54042);
+        
+    
+            map_11816733f66896d25cecff19bed54042.scrollEnabled = true;
+
+            map_11816733f66896d25cecff19bed54042.toggleScroll = function() {
+                if (this.scrollEnabled) {
+                    this.scrollEnabled = false;
+                    this.scrollWheelZoom.disable();
+                } else {
+                    this.scrollEnabled = true;
+                    this.scrollWheelZoom.enable();
+                }
+            };
+            map_11816733f66896d25cecff19bed54042.toggleScroll();
+        
+    
+map.scrollWheelZoom.disable();
+map.doubleClickZoom.disable();
+map.touchZoom.disable();
+    
+            tile_layer_a4a57f237ad08197002199638bdf4d4e.addTo(map_11816733f66896d25cecff19bed54042);
+        
+</script>
+</html>

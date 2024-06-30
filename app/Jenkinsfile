@@ -1,0 +1,61 @@
+pipeline {
+    agent any
+
+    environment {
+        // Docker image name
+        IMAGE_NAME = 'my-app-image'
+        // Directory where the project is located
+        PROJECT_DIR = 'app'
+        // Docker Compose file location
+        COMPOSE_FILE = "${PROJECT_DIR}/docker-compose.yml"
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                // Checkout the code from GitHub
+                git url: 'https://github.com/your-username/your-repo.git', branch: 'main'
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                script {
+                    // Navigate to the project directory
+                    dir(PROJECT_DIR) {
+                        // Build the Docker image
+                        sh "docker build -t ${IMAGE_NAME} ."
+                    }
+                }
+            }
+        }
+
+        stage('Deploy with Docker Compose') {
+            steps {
+                script {
+                    // Navigate to the project directory
+                    dir(PROJECT_DIR) {
+                        // Start services with Docker Compose
+                        sh 'docker-compose down'
+                        sh 'docker-compose up -d --build'
+                    }
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            // Clean up old Docker images
+            sh 'docker image prune -f'
+        }
+
+        success {
+            echo 'Deployment succeeded!'
+        }
+
+        failure {
+            echo 'Deployment failed!'
+        }
+    }
+}
