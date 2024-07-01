@@ -12,7 +12,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Ensure static directory is created
 RUN mkdir -p static
-RUN apt-get install -y pip 
 
 # Run app.py to generate the HTML file
 CMD ["python", "app.py"]
