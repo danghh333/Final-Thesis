@@ -2,10 +2,12 @@ pipeline {
     agent any
 
     environment {
-        // Docker image name
-        IMAGE_NAME = 'my-app-image'
-        // Docker container name
-        CONTAINER_NAME = 'my-app-container'
+        // Docker image names
+        APP_IMAGE_NAME = 'my-app-image'
+        NGINX_IMAGE_NAME = 'nginx:latest'
+        // Docker container names
+        APP_CONTAINER_NAME = 'my-app-container'
+        NGINX_CONTAINER_NAME = 'nginx-container'
         // Directory where the project is located
         PROJECT_DIR = 'app'
     }
@@ -23,26 +25,37 @@ pipeline {
                 script {
                     // Navigate to the project directory
                     dir(PROJECT_DIR) {
-                        // Build the Docker image
-                        sh "docker build -t ${IMAGE_NAME} ."
+                        // Build the Docker image for the app
+                        sh "docker build -t ${APP_IMAGE_NAME} ."
                     }
                 }
             }
         }
 
-        stage('Run Docker Container') {
+        stage('Run Docker Containers') {
             steps {
                 script {
-                    // Stop and remove the container if it already exists
-                    sh "docker stop ${CONTAINER_NAME} || true"
-                    sh "docker rm ${CONTAINER_NAME} || true"
+                    // Stop and remove the app container if it already exists
+                    sh "docker stop ${APP_CONTAINER_NAME} || true"
+                    sh "docker rm ${APP_CONTAINER_NAME} || true"
 
-                    // Run the Docker container
+                    // Run the Docker app container
                     sh """
-                    docker run -d --name ${CONTAINER_NAME} \
-                    -p 80:80 \
+                    docker run -d --name ${APP_CONTAINER_NAME} \
                     -v ${WORKSPACE}/${PROJECT_DIR}/static:/app/static \
-                    ${IMAGE_NAME}
+                    ${APP_IMAGE_NAME}
+                    """
+
+                    // Stop and remove the Nginx container if it already exists
+                    sh "docker stop ${NGINX_CONTAINER_NAME} || true"
+                    sh "docker rm ${NGINX_CONTAINER_NAME} || true"
+
+                    // Run the Nginx container
+                    sh """
+                    docker run -d --name ${NGINX_CONTAINER_NAME} \
+                    -p 80:80 \
+                    -v ${WORKSPACE}/${PROJECT_DIR}/static:/usr/share/nginx/html \
+                    ${NGINX_IMAGE_NAME}
                     """
                 }
             }
