@@ -4,10 +4,10 @@ pipeline {
     environment {
         // Docker image name
         IMAGE_NAME = 'my-app-image'
+        // Docker container name
+        CONTAINER_NAME = 'my-app-container'
         // Directory where the project is located
         PROJECT_DIR = 'app'
-        // Docker Compose file location
-        COMPOSE_FILE = "${PROJECT_DIR}/docker-compose.yml"
     }
 
     stages {
@@ -30,15 +30,20 @@ pipeline {
             }
         }
 
-        stage('Deploy with Docker Compose') {
+        stage('Run Docker Container') {
             steps {
                 script {
-                    // Navigate to the project directory
-                    dir(PROJECT_DIR) {
-                        // Start services with Docker Compose
-                        sh 'docker-compose down'
-                        sh 'docker-compose up -d --build'
-                    }
+                    // Stop and remove the container if it already exists
+                    sh "docker stop ${CONTAINER_NAME} || true"
+                    sh "docker rm ${CONTAINER_NAME} || true"
+
+                    // Run the Docker container
+                    sh """
+                    docker run -d --name ${CONTAINER_NAME} \
+                    -p 80:80 \
+                    -v ${WORKSPACE}/${PROJECT_DIR}/static:/app/static \
+                    ${IMAGE_NAME}
+                    """
                 }
             }
         }
